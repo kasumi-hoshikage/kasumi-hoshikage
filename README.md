@@ -3,7 +3,7 @@
 <br>
 
 <h2 align="center">
-  A Software Developer and Co-Founder of&nbsp;<a href="https://github.com/SDKDeck"><strong>SDKDeck</strong></a>
+  A Project Manager and Co-Founder of&nbsp;<a href="https://github.com/SDKDeck"><strong>SDKDeck</strong></a>
 </h2>
 
 <br>
